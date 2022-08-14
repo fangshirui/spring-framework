@@ -16,6 +16,7 @@
 
 package org.springframework.core.io;
 
+import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Collection;
